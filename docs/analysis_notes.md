@@ -30,6 +30,7 @@ données) : borne optimiste. L'évaluation hors échantillon est celle du modèl
 
 ## Analyse post-campagne (à lire avec la dérive temporelle)
 
+
 - Pression commerciale : conversion de 14,6 % (1 contact) à 5,8 % (6 et plus) ; en partie
   mécanique (un client qui accepte n'est plus rappelé). Piste : tester un plafond de contacts.
 - Mois et canal : écarts largement dus à la période ; aucune recommandation « cibler tel mois ».

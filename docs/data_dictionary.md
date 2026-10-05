@@ -55,5 +55,5 @@ vue segmentée : `bank_segments`.
   (mai = 30,4 % des contacts ; décembre, mars, septembre, octobre < 800 lignes chacun, presque
   tous en fin de fichier). Toute comparaison entre mois, canaux ou segments est donc
   partiellement confondue avec la période.
-- **Composition** : les clients déjà contactés représentent 6,5 % de la période d'entraînement
+  - **Composition** : les clients déjà contactés représentent 6,5 % de la période d'entraînement
   contre 45,7 % de la période de test ; 95 % des anciens souscripteurs sont dans la période de test.
