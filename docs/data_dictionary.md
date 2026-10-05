@@ -29,3 +29,9 @@ Source : Moro, Cortez & Rita (2014). Table brute : `bank_raw` ; vue nettoyée : 
 - **balance** : min −8 019, Q1 72, médiane 448, Q3 1 428, max 102 127
   Distribution très asymétrique : segmentation par quartiles, valeurs extrêmes limitées pour le modèle. 3 766 soldes négatifs (8,3 %) = découverts, conservés
 - **Saisonnalité** : mai = 30,4 % des contacts ; décembre, mars, septembre et octobre ont moins de 800 lignes chacun : taux de conversion à lire avec leur intervalle de confiance
+- **Dérive temporelle** : les données sont ordonnées chronologiquement (mai 2008 → nov. 2010).
+  Le taux de conversion passe d'environ 3 % (début) à 47 % (dernier décile). Les 70 %
+  premières lignes ≈ 5,8 %, les 30 % dernières ≈ 25,4 %. Toute comparaison entre mois,
+  canaux ou segments est donc partiellement confondue avec la période.
+- **contact** : 96 % des `unknown` (12 507 / 13 020) datent de mai-juin, au début de la collecte.
+  La modalité sert de marqueur de période, pas de canal.
